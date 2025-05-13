@@ -1,7 +1,7 @@
 # DOKUMENTASI LAMAN WEBSITE
 ## NABDAFF ON RACING => MotoGP
 ![Screenshot 2025-05-13 214458](https://github.com/user-attachments/assets/e550cff3-b3c2-4d02-bede-b96f5f16d95c)
-![Screenshot 2025-05-13 214521](https://github.com/user-attachments/assets/0f60f731-8f84-47a7-9a04-f6951ca58475)
-![Screenshot 2025-05-13 214511](https://github.com/user-attachments/assets/8a7154e5-3d27-4f0d-b888-183c8bddd501)
+![Screenshot 2025-05-13 214511](https://github.com/user-attachments/assets/cec68173-e566-4781-9793-0af24173b199)
+![Screenshot 2025-05-13 214521](https://github.com/user-attachments/assets/06e50d1a-5295-4e11-858c-95694cedefe1)
 
-Lihat Laman Website <a href="http://127.0.0.1:5500/Index.html"><button class="subscribe-btn">SUBSCRIBE NOW!</button></a>
+Lihat Laman Website <a href="https://www.motogp.com/en/videopass" target="_blank" class="button">SUBSCRIBE NOW!</a>
