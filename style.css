@@ -1,0 +1,93 @@
+/* Global Reset */
+body {
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #111;
+    color: white;
+}
+
+/* Navbar Styling */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #0d0d0d;
+    padding: 10px 30px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.5);
+}
+
+.logo {
+    height: 40px;
+}
+
+.navbar-right a {
+    color: white;
+    text-decoration: none;
+    margin-left: 25px;
+    font-weight: 500;
+    transition: color 0.3s;
+}
+
+.navbar-right a:hover {
+    color: #ff0000;
+}
+
+/* Content Styling */
+.container {
+    max-width: 1000px;
+    margin: 40px auto;
+    padding: 0 20px;
+}
+
+h1 {
+    font-size: 28px;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 22px;
+    margin-bottom: 20px;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+.button {
+    background-color: red;
+    color: white;
+    padding: 10px 20px;
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 4px;
+    display: inline-block;
+    margin-top: 10px;
+}
+
+.button:hover {
+    background-color: #cc0000;
+}
+
+/* Image Styling */
+.motogp-image {
+    display: block;
+    max-width: 100%;
+    margin-top: 30px;
+    border-radius: 10px;
+}
+
+/* About Us Section */
+.about {
+    max-width: 1000px;
+    margin: 60px auto 80px auto;
+    padding: 0 20px;
+    border-top: 2px solid #222;
+    padding-top: 40px;
+}
+
+.about h2 {
+    font-size: 24px;
+    color: #ff0000;
+    margin-bottom: 15px;
+}
